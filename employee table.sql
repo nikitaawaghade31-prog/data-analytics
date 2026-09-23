@@ -1,1 +1,0 @@
-SELECT * FROM batch1346_db.employee;
